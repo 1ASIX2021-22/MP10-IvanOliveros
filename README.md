@@ -1,2 +1,2 @@
 # MP10-IvanOliveros
-**Nom: Ivan Oliveros**
+***Nom i cognoms: Ivan Oliveros Gómez***
